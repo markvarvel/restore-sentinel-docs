@@ -21,7 +21,7 @@ This API processes Discord interactions using Flask and validates requests via E
 
 ## 🔹 Terms & Privacy  
 - **Terms of Service:** [View Here](https://github.com/markvarvel/restore-sentinel-docs/blob/main/terms.md)
-- **Privacy Policy:** [View Here]()  
+- **Privacy Policy:** [View Here](https://github.com/markvarvel/restore-sentinel-docs/blob/main/privacy.md)  
 
 ## 💡 Contributing  
 Pull requests are welcome! Feel free to suggest new features or improvements.  
