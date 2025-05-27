@@ -20,8 +20,8 @@ https://micromsv.com/api/discord-interactions
 This API processes Discord interactions using Flask and validates requests via Ed25519 signatures.
 
 ## 🔹 Terms & Privacy  
-- **Terms of Service:** [View Here](https://micromsv.com/terms)  
-- **Privacy Policy:** [View Here](https://micromsv.com/privacy)  
+- **Terms of Service:** [View Here](https://github.com/markvarvel/restore-sentinel-docs/blob/main/terms.md)
+- **Privacy Policy:** [View Here]()  
 
 ## 💡 Contributing  
 Pull requests are welcome! Feel free to suggest new features or improvements.  
